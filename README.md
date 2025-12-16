@@ -1,4 +1,4 @@
-# 🚀 SpaceX Falcon 9 First Stage Landing Prediction
+# 🚀 Rocket-Launch-Success-Prediction-and-Cost-Estimation
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-Plotly-orange?style=for-the-badge&logo=plotly&logoColor=white)
